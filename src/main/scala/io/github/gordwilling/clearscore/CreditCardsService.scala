@@ -19,7 +19,7 @@ object CreditCardsService {
 
   final case class CreditCardRequest(name: String, creditScore: Int, salary: Int)
 
-  final case class CreditCard(provider: String, name: String, api: Double, cardScore: Double)
+  final case class CreditCard(provider: String, name: String, apr: Double, cardScore: Double)
 
   final case class CSCardsRequest(name: String, creditScore: Int)
 
