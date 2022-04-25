@@ -17,7 +17,9 @@ The solution is implemented in [Scala](https://www.scala-lang.org/) using [Http4
 
 ## Installation
 
-Running the service requires [SBT](https://www.scala-sbt.org/) in your path. Download and install SBT using the [instructions](https://www.scala-sbt.org/download.html).
+Running the service requires [Java](https://www.java.com) and [SBT](https://www.scala-sbt.org/) in your path. 
+- Download and install Java [here](https://jdk.java.net/java-se-ri/17).
+- Download and install SBT using the [instructions](https://www.scala-sbt.org/download.html).
 
 ## Running the Service
 
